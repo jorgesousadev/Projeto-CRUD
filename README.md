@@ -3,7 +3,7 @@
 # Responsáveis por esse projeto
 
 ###### Jorge Sousa
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/1997jorge) 
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/jorgesousadev) 
 
 ###### Jefferson Despezzio
 
